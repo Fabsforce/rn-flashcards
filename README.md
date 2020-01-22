@@ -19,7 +19,7 @@ Install the project dependencies in running in your console :
 The app uses local storage (AsyncStorage) to persist data. Please note that when the app is remove from the phone the data is removed as well. 
 The data stored in the app is not crypted so it's not suitable for storing sensible info.
 
-## Expo
+## Tested Platforms
 
 The app was developped using expo. The app has been tested on iPhone 6s plus, iPhone 8, iPhone 11 Pro Max and Galaxy A10
 
